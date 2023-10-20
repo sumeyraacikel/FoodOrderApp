@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">851914102631-g4a9s1q1hsr900b0u92flhj2inl3j0cq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">851914102631</string>
+    <string name="google_api_key" translatable="false">AIzaSyDifdAE1dUBN5wKXpl0NoFOgTtDe0UoZ8k</string>
+    <string name="google_app_id" translatable="false">1:851914102631:android:e7dd22ed3706a1736e81c2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDifdAE1dUBN5wKXpl0NoFOgTtDe0UoZ8k</string>
+    <string name="google_storage_bucket" translatable="false">yemekapp-1e1b4.appspot.com</string>
+    <string name="project_id" translatable="false">yemekapp-1e1b4</string>
+</resources>
