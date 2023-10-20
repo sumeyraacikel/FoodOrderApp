@@ -1,0 +1,592 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] C:\Users\smeyr\.gradle\caches\transforms-3\5e4b294806b9f23fe2c5c70840e99116\transformed\databinding-adapters-7.1.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] C:\Users\smeyr\.gradle\caches\transforms-3\a659175642abfadf13fd81a3e101cc1e\transformed\databinding-ktx-7.1.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] C:\Users\smeyr\.gradle\caches\transforms-3\29ded38abe646e7f4846051972aa04a8\transformed\databinding-runtime-7.1.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\smeyr\.gradle\caches\transforms-3\93de93aeeade4f330e5bed0d4bc146f5\transformed\viewbinding-7.1.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\e4c120ce9430cde9209575e8b025f741\transformed\firebase-auth-ktx-21.0.6\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\652b6f60ab5a61424b1b6339bb87d5a8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\189795d785aa1c184e32eb7322b5ad33\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\77f7d74c04e68d941aab0f90b0205ea4\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\7ce51cd2e17580edcd3482bf6a62a411\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\19ba7dce9add193d13ffe58ff54dbcf7\transformed\navigation-fragment-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\f373e91f0f56aeac05e2389e37189256\transformed\navigation-fragment-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\96f0885924b8e6565351494f756f89e5\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\6d89dd51804a24399053a4852cf66210\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\93d54a5005902f2d5ee74ce536220578\transformed\fragment-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\d2b61282c49296a7007d504affd3b162\transformed\navigation-ui-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\5dac06d91f3680e733f9c27e7f900789\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\6bafaa1aac376588a7433aedfccfdfc5\transformed\navigation-ui-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\80980f7d2b8a6d47a1b11c5efbdb3215\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\95ceaf898949faf936e08a2380ebd946\transformed\activity-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\be85f6c735896a8b71f7dd6d4ee6fd78\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\2123925b2ee7e9b39580c3cfbc32b39f\transformed\navigation-common-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\d2bc76b61b7389cc9c921c1e0e02729d\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\cf01f3a4373b858f06065a1f901760dd\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.42] C:\Users\smeyr\.gradle\caches\transforms-3\0aa216f92563bf1ba6560c43ef4b62ee\transformed\hilt-android-2.42\AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.santalu:maskara:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\c20db395c45ee57fcb489c6c69f31c73\transformed\maskara-1.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\smeyr\.gradle\caches\transforms-3\04c325965abfa82971a5551ba8cfca45\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\smeyr\.gradle\caches\transforms-3\fd7523cd80ee6ae0b0230b8e3457fc4d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] C:\Users\smeyr\.gradle\caches\transforms-3\ea543f0bfba66972ca51ee18e7c48733\transformed\koin-androidx-viewmodel-2.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-androidx-scope:2.0.1] C:\Users\smeyr\.gradle\caches\transforms-3\89e6585fedd9569d87e430276a848659\transformed\koin-androidx-scope-2.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.fornewid:neumorphism:0.3.2] C:\Users\smeyr\.gradle\caches\transforms-3\e9617d8b233d497db140ac751033a24e\transformed\neumorphism-0.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\79b63f103195eb7412a222b9f33b0ecc\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\cfd6569d8ff8c0faa7446aa6480ec2b9\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\310bb730b55c0b194e70fb2c7ba356be\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\8deb1e8b1e6a34f2beca2295f5246d9c\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\smeyr\.gradle\caches\transforms-3\e7236ee83eb33c4645af7d0fec30ed51\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\smeyr\.gradle\caches\transforms-3\3c404724e730c1cf95587ca48e6f03dd\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\da87eb6aafd66661e7e71da347461b23\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\7d10cb923a29235bd6e8f2e7a132977e\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\smeyr\.gradle\caches\transforms-3\9bbc305a96d17947e3c68fac25da73a4\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\5f8eadc512ac90c7fa308416670af15f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\edf07b8f83183f4ad2870214f641ec41\transformed\fragment-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\394f8640e1ce219e65875a688728fda5\transformed\activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\d14cd6d82af9c8e77d528d034dc48f99\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\0cd2b967ab1763df6d4576fd9bcaeefa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\397a6d00456bce5a90bcad8962202303\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\30eec653533a0d648640843772453624\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\4778894b942f91e93738b66e1284b2a8\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\smeyr\.gradle\caches\transforms-3\d54b3b7abe90cd911f0d52e3066528f9\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\smeyr\.gradle\caches\transforms-3\16e88dd1d5b4d31796a0950978dd08bf\transformed\picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [org.koin:koin-android:2.0.1] C:\Users\smeyr\.gradle\caches\transforms-3\359497f4e566af9894673ba579a0c4a2\transformed\koin-android-2.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\5f4edaa2f09b34caf40c32c19463b22a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\c91375fc487dc5b30e448192f616dc86\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\4b5a630bfcede0d039545e342f14bae7\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\9874704eab8254984d4cf98f3a0b97fb\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\smeyr\.gradle\caches\transforms-3\2a8a054407b7050ff62426db3f10fb45\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\30f697e3b6de6d9b41e6125f4baa4edf\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\cf6ff0ffe14789d95e956568055895a8\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\8dbdbd53f2e9e9728c10726da67e0508\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\901243cdd2cb49203029e643c309ee62\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\dbe5370647fefc1350c21a38a74551be\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\0112623b39ceab5fc87730411d31d99e\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\4509f135fe65ed85406a7e221ee57f32\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\315196bc1a43e7a9bec3f19751783de4\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\6b09ae85401e557d68d6d497e0ee3347\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\smeyr\.gradle\caches\transforms-3\0f9a7874aac40b991042bed501cb7cf8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\cdb093475a5469ad373f4c9159915db5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\214636dbd9f3e983da094f837cc233e7\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\42c1fa34059307fbd795392942ef2b5d\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\fbedb4b8047488bbb8377549c7329b7f\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\88cbccbc52a840a860ea7def71b9103f\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\smeyr\.gradle\caches\transforms-3\235d57e44c9b6b216bc1ace9d41a41a0\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\smeyr\.gradle\caches\transforms-3\d4a9507cfdb096e6370ff28e81b167d2\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\smeyr\.gradle\caches\transforms-3\abaa0f31f59a8d872179f0263e749f89\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\7930d85f39ed2330b78af850407c198d\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\9240dd8366bf35109acaccc984caffad\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\aa5c877613afd091b6d3af2720c0e3e7\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\eb3ed8a1cd18d8d5dca7f8d5645537fa\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\smeyr\.gradle\caches\transforms-3\095fe446d61180612d1de30e002953c9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\001c19ad50e08c7393c0271078b72c33\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\c1bc8ce1bd46518051b40285a2aecd4a\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\d7354d91458b3507848132188b1da634\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\85e80a23b6ec8ae094eea16efde4ea83\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\a9890cc21245ea8ff439689e1ce60029\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\smeyr\.gradle\caches\transforms-3\dc3eb22cc0a74e1a644fe1fc19355042\transformed\firebase-components-17.1.5\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\eccc2a1aec0960f02f80b15dd6f9bb0d\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\7a78b5d36f72176ec37d7760b9340363\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.42] C:\Users\smeyr\.gradle\caches\transforms-3\8b73b8c125d39ee8bf376b902720238f\transformed\dagger-lint-aar-2.42\AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\1b87150856e0a6c5862d22a758de4f2b\transformed\exifinterface-27.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:7:5-31:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\e4c120ce9430cde9209575e8b025f741\transformed\firebase-auth-ktx-21.0.6\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\e4c120ce9430cde9209575e8b025f741\transformed\firebase-auth-ktx-21.0.6\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\652b6f60ab5a61424b1b6339bb87d5a8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\652b6f60ab5a61424b1b6339bb87d5a8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\189795d785aa1c184e32eb7322b5ad33\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\189795d785aa1c184e32eb7322b5ad33\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\6d89dd51804a24399053a4852cf66210\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\6d89dd51804a24399053a4852cf66210\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\smeyr\.gradle\caches\transforms-3\04c325965abfa82971a5551ba8cfca45\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\smeyr\.gradle\caches\transforms-3\04c325965abfa82971a5551ba8cfca45\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\smeyr\.gradle\caches\transforms-3\fd7523cd80ee6ae0b0230b8e3457fc4d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\smeyr\.gradle\caches\transforms-3\fd7523cd80ee6ae0b0230b8e3457fc4d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] C:\Users\smeyr\.gradle\caches\transforms-3\ea543f0bfba66972ca51ee18e7c48733\transformed\koin-androidx-viewmodel-2.0.1\AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] C:\Users\smeyr\.gradle\caches\transforms-3\ea543f0bfba66972ca51ee18e7c48733\transformed\koin-androidx-viewmodel-2.0.1\AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.0.1] C:\Users\smeyr\.gradle\caches\transforms-3\89e6585fedd9569d87e430276a848659\transformed\koin-androidx-scope-2.0.1\AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.0.1] C:\Users\smeyr\.gradle\caches\transforms-3\89e6585fedd9569d87e430276a848659\transformed\koin-androidx-scope-2.0.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\cfd6569d8ff8c0faa7446aa6480ec2b9\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\cfd6569d8ff8c0faa7446aa6480ec2b9\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\8deb1e8b1e6a34f2beca2295f5246d9c\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\8deb1e8b1e6a34f2beca2295f5246d9c\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\da87eb6aafd66661e7e71da347461b23\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\da87eb6aafd66661e7e71da347461b23\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\7d10cb923a29235bd6e8f2e7a132977e\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\7d10cb923a29235bd6e8f2e7a132977e\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\smeyr\.gradle\caches\transforms-3\9bbc305a96d17947e3c68fac25da73a4\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\smeyr\.gradle\caches\transforms-3\9bbc305a96d17947e3c68fac25da73a4\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\5f8eadc512ac90c7fa308416670af15f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\5f8eadc512ac90c7fa308416670af15f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\smeyr\.gradle\caches\transforms-3\16e88dd1d5b4d31796a0950978dd08bf\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\smeyr\.gradle\caches\transforms-3\16e88dd1d5b4d31796a0950978dd08bf\transformed\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\9874704eab8254984d4cf98f3a0b97fb\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\9874704eab8254984d4cf98f3a0b97fb\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\smeyr\.gradle\caches\transforms-3\0f9a7874aac40b991042bed501cb7cf8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\smeyr\.gradle\caches\transforms-3\0f9a7874aac40b991042bed501cb7cf8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\smeyr\.gradle\caches\transforms-3\abaa0f31f59a8d872179f0263e749f89\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\smeyr\.gradle\caches\transforms-3\abaa0f31f59a8d872179f0263e749f89\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\smeyr\.gradle\caches\transforms-3\095fe446d61180612d1de30e002953c9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\smeyr\.gradle\caches\transforms-3\095fe446d61180612d1de30e002953c9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\001c19ad50e08c7393c0271078b72c33\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\001c19ad50e08c7393c0271078b72c33\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\smeyr\.gradle\caches\transforms-3\abaa0f31f59a8d872179f0263e749f89\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:15:9-53
+	android:usesCleartextTraffic
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:8:9-59
+activity#com.example.foodorderingapp.presentation.login.LoginActivity
+ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:17:13-88
+activity#com.example.foodorderingapp.presentation.splash.SplashActivity
+ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:exported
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:20:13-90
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.foodorderingapp.presentation.MainActivity
+ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:28:9-30:39
+	android:exported
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml:29:13-81
+uses-sdk
+INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] C:\Users\smeyr\.gradle\caches\transforms-3\5e4b294806b9f23fe2c5c70840e99116\transformed\databinding-adapters-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.1.2] C:\Users\smeyr\.gradle\caches\transforms-3\5e4b294806b9f23fe2c5c70840e99116\transformed\databinding-adapters-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] C:\Users\smeyr\.gradle\caches\transforms-3\a659175642abfadf13fd81a3e101cc1e\transformed\databinding-ktx-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.1.2] C:\Users\smeyr\.gradle\caches\transforms-3\a659175642abfadf13fd81a3e101cc1e\transformed\databinding-ktx-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] C:\Users\smeyr\.gradle\caches\transforms-3\29ded38abe646e7f4846051972aa04a8\transformed\databinding-runtime-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.1.2] C:\Users\smeyr\.gradle\caches\transforms-3\29ded38abe646e7f4846051972aa04a8\transformed\databinding-runtime-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\smeyr\.gradle\caches\transforms-3\93de93aeeade4f330e5bed0d4bc146f5\transformed\viewbinding-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\smeyr\.gradle\caches\transforms-3\93de93aeeade4f330e5bed0d4bc146f5\transformed\viewbinding-7.1.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\e4c120ce9430cde9209575e8b025f741\transformed\firebase-auth-ktx-21.0.6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\e4c120ce9430cde9209575e8b025f741\transformed\firebase-auth-ktx-21.0.6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\652b6f60ab5a61424b1b6339bb87d5a8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\652b6f60ab5a61424b1b6339bb87d5a8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\189795d785aa1c184e32eb7322b5ad33\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\189795d785aa1c184e32eb7322b5ad33\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\77f7d74c04e68d941aab0f90b0205ea4\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\77f7d74c04e68d941aab0f90b0205ea4\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\7ce51cd2e17580edcd3482bf6a62a411\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\7ce51cd2e17580edcd3482bf6a62a411\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\19ba7dce9add193d13ffe58ff54dbcf7\transformed\navigation-fragment-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\19ba7dce9add193d13ffe58ff54dbcf7\transformed\navigation-fragment-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\f373e91f0f56aeac05e2389e37189256\transformed\navigation-fragment-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\f373e91f0f56aeac05e2389e37189256\transformed\navigation-fragment-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\96f0885924b8e6565351494f756f89e5\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\96f0885924b8e6565351494f756f89e5\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\6d89dd51804a24399053a4852cf66210\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\6d89dd51804a24399053a4852cf66210\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\93d54a5005902f2d5ee74ce536220578\transformed\fragment-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\93d54a5005902f2d5ee74ce536220578\transformed\fragment-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\d2b61282c49296a7007d504affd3b162\transformed\navigation-ui-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\d2b61282c49296a7007d504affd3b162\transformed\navigation-ui-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\5dac06d91f3680e733f9c27e7f900789\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\5dac06d91f3680e733f9c27e7f900789\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\6bafaa1aac376588a7433aedfccfdfc5\transformed\navigation-ui-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\6bafaa1aac376588a7433aedfccfdfc5\transformed\navigation-ui-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\80980f7d2b8a6d47a1b11c5efbdb3215\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\80980f7d2b8a6d47a1b11c5efbdb3215\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\95ceaf898949faf936e08a2380ebd946\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\95ceaf898949faf936e08a2380ebd946\transformed\activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\be85f6c735896a8b71f7dd6d4ee6fd78\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\be85f6c735896a8b71f7dd6d4ee6fd78\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\2123925b2ee7e9b39580c3cfbc32b39f\transformed\navigation-common-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\2123925b2ee7e9b39580c3cfbc32b39f\transformed\navigation-common-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\d2bc76b61b7389cc9c921c1e0e02729d\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\d2bc76b61b7389cc9c921c1e0e02729d\transformed\lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\cf01f3a4373b858f06065a1f901760dd\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\cf01f3a4373b858f06065a1f901760dd\transformed\lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.42] C:\Users\smeyr\.gradle\caches\transforms-3\0aa216f92563bf1ba6560c43ef4b62ee\transformed\hilt-android-2.42\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.42] C:\Users\smeyr\.gradle\caches\transforms-3\0aa216f92563bf1ba6560c43ef4b62ee\transformed\hilt-android-2.42\AndroidManifest.xml:18:3-42
+MERGED from [com.github.santalu:maskara:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\c20db395c45ee57fcb489c6c69f31c73\transformed\maskara-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.santalu:maskara:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\c20db395c45ee57fcb489c6c69f31c73\transformed\maskara-1.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\smeyr\.gradle\caches\transforms-3\04c325965abfa82971a5551ba8cfca45\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\smeyr\.gradle\caches\transforms-3\04c325965abfa82971a5551ba8cfca45\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\smeyr\.gradle\caches\transforms-3\fd7523cd80ee6ae0b0230b8e3457fc4d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\smeyr\.gradle\caches\transforms-3\fd7523cd80ee6ae0b0230b8e3457fc4d\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] C:\Users\smeyr\.gradle\caches\transforms-3\ea543f0bfba66972ca51ee18e7c48733\transformed\koin-androidx-viewmodel-2.0.1\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.0.1] C:\Users\smeyr\.gradle\caches\transforms-3\ea543f0bfba66972ca51ee18e7c48733\transformed\koin-androidx-viewmodel-2.0.1\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.0.1] C:\Users\smeyr\.gradle\caches\transforms-3\89e6585fedd9569d87e430276a848659\transformed\koin-androidx-scope-2.0.1\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.0.1] C:\Users\smeyr\.gradle\caches\transforms-3\89e6585fedd9569d87e430276a848659\transformed\koin-androidx-scope-2.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.github.fornewid:neumorphism:0.3.2] C:\Users\smeyr\.gradle\caches\transforms-3\e9617d8b233d497db140ac751033a24e\transformed\neumorphism-0.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.fornewid:neumorphism:0.3.2] C:\Users\smeyr\.gradle\caches\transforms-3\e9617d8b233d497db140ac751033a24e\transformed\neumorphism-0.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\79b63f103195eb7412a222b9f33b0ecc\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\79b63f103195eb7412a222b9f33b0ecc\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\cfd6569d8ff8c0faa7446aa6480ec2b9\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\cfd6569d8ff8c0faa7446aa6480ec2b9\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\310bb730b55c0b194e70fb2c7ba356be\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\310bb730b55c0b194e70fb2c7ba356be\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\8deb1e8b1e6a34f2beca2295f5246d9c\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\8deb1e8b1e6a34f2beca2295f5246d9c\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\smeyr\.gradle\caches\transforms-3\e7236ee83eb33c4645af7d0fec30ed51\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\smeyr\.gradle\caches\transforms-3\e7236ee83eb33c4645af7d0fec30ed51\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\smeyr\.gradle\caches\transforms-3\3c404724e730c1cf95587ca48e6f03dd\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\smeyr\.gradle\caches\transforms-3\3c404724e730c1cf95587ca48e6f03dd\transformed\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\da87eb6aafd66661e7e71da347461b23\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\da87eb6aafd66661e7e71da347461b23\transformed\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\7d10cb923a29235bd6e8f2e7a132977e\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\7d10cb923a29235bd6e8f2e7a132977e\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\smeyr\.gradle\caches\transforms-3\9bbc305a96d17947e3c68fac25da73a4\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\smeyr\.gradle\caches\transforms-3\9bbc305a96d17947e3c68fac25da73a4\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\5f8eadc512ac90c7fa308416670af15f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\5f8eadc512ac90c7fa308416670af15f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\edf07b8f83183f4ad2870214f641ec41\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\edf07b8f83183f4ad2870214f641ec41\transformed\fragment-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\394f8640e1ce219e65875a688728fda5\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\394f8640e1ce219e65875a688728fda5\transformed\activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\d14cd6d82af9c8e77d528d034dc48f99\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\d14cd6d82af9c8e77d528d034dc48f99\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\0cd2b967ab1763df6d4576fd9bcaeefa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\0cd2b967ab1763df6d4576fd9bcaeefa\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\397a6d00456bce5a90bcad8962202303\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\397a6d00456bce5a90bcad8962202303\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\30eec653533a0d648640843772453624\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\30eec653533a0d648640843772453624\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\4778894b942f91e93738b66e1284b2a8\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\4778894b942f91e93738b66e1284b2a8\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\smeyr\.gradle\caches\transforms-3\d54b3b7abe90cd911f0d52e3066528f9\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\smeyr\.gradle\caches\transforms-3\d54b3b7abe90cd911f0d52e3066528f9\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\smeyr\.gradle\caches\transforms-3\16e88dd1d5b4d31796a0950978dd08bf\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\smeyr\.gradle\caches\transforms-3\16e88dd1d5b4d31796a0950978dd08bf\transformed\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.0.1] C:\Users\smeyr\.gradle\caches\transforms-3\359497f4e566af9894673ba579a0c4a2\transformed\koin-android-2.0.1\AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.0.1] C:\Users\smeyr\.gradle\caches\transforms-3\359497f4e566af9894673ba579a0c4a2\transformed\koin-android-2.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\5f4edaa2f09b34caf40c32c19463b22a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\5f4edaa2f09b34caf40c32c19463b22a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\c91375fc487dc5b30e448192f616dc86\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\c91375fc487dc5b30e448192f616dc86\transformed\appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\4b5a630bfcede0d039545e342f14bae7\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\4b5a630bfcede0d039545e342f14bae7\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\9874704eab8254984d4cf98f3a0b97fb\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\9874704eab8254984d4cf98f3a0b97fb\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\smeyr\.gradle\caches\transforms-3\2a8a054407b7050ff62426db3f10fb45\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\smeyr\.gradle\caches\transforms-3\2a8a054407b7050ff62426db3f10fb45\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\30f697e3b6de6d9b41e6125f4baa4edf\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\30f697e3b6de6d9b41e6125f4baa4edf\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\cf6ff0ffe14789d95e956568055895a8\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\cf6ff0ffe14789d95e956568055895a8\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\8dbdbd53f2e9e9728c10726da67e0508\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\8dbdbd53f2e9e9728c10726da67e0508\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\901243cdd2cb49203029e643c309ee62\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\901243cdd2cb49203029e643c309ee62\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\dbe5370647fefc1350c21a38a74551be\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\dbe5370647fefc1350c21a38a74551be\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\0112623b39ceab5fc87730411d31d99e\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\0112623b39ceab5fc87730411d31d99e\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\4509f135fe65ed85406a7e221ee57f32\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\4509f135fe65ed85406a7e221ee57f32\transformed\lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\315196bc1a43e7a9bec3f19751783de4\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\315196bc1a43e7a9bec3f19751783de4\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\6b09ae85401e557d68d6d497e0ee3347\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\6b09ae85401e557d68d6d497e0ee3347\transformed\lifecycle-service-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\smeyr\.gradle\caches\transforms-3\0f9a7874aac40b991042bed501cb7cf8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\smeyr\.gradle\caches\transforms-3\0f9a7874aac40b991042bed501cb7cf8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\cdb093475a5469ad373f4c9159915db5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\cdb093475a5469ad373f4c9159915db5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\214636dbd9f3e983da094f837cc233e7\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\214636dbd9f3e983da094f837cc233e7\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\42c1fa34059307fbd795392942ef2b5d\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\42c1fa34059307fbd795392942ef2b5d\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\fbedb4b8047488bbb8377549c7329b7f\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\fbedb4b8047488bbb8377549c7329b7f\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\88cbccbc52a840a860ea7def71b9103f\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\88cbccbc52a840a860ea7def71b9103f\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\smeyr\.gradle\caches\transforms-3\235d57e44c9b6b216bc1ace9d41a41a0\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\smeyr\.gradle\caches\transforms-3\235d57e44c9b6b216bc1ace9d41a41a0\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\smeyr\.gradle\caches\transforms-3\d4a9507cfdb096e6370ff28e81b167d2\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\smeyr\.gradle\caches\transforms-3\d4a9507cfdb096e6370ff28e81b167d2\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\smeyr\.gradle\caches\transforms-3\abaa0f31f59a8d872179f0263e749f89\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\smeyr\.gradle\caches\transforms-3\abaa0f31f59a8d872179f0263e749f89\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\7930d85f39ed2330b78af850407c198d\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\smeyr\.gradle\caches\transforms-3\7930d85f39ed2330b78af850407c198d\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\9240dd8366bf35109acaccc984caffad\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\9240dd8366bf35109acaccc984caffad\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\aa5c877613afd091b6d3af2720c0e3e7\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\aa5c877613afd091b6d3af2720c0e3e7\transformed\savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\eb3ed8a1cd18d8d5dca7f8d5645537fa\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\smeyr\.gradle\caches\transforms-3\eb3ed8a1cd18d8d5dca7f8d5645537fa\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\smeyr\.gradle\caches\transforms-3\095fe446d61180612d1de30e002953c9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\smeyr\.gradle\caches\transforms-3\095fe446d61180612d1de30e002953c9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\001c19ad50e08c7393c0271078b72c33\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\001c19ad50e08c7393c0271078b72c33\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\c1bc8ce1bd46518051b40285a2aecd4a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\c1bc8ce1bd46518051b40285a2aecd4a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\d7354d91458b3507848132188b1da634\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\d7354d91458b3507848132188b1da634\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\85e80a23b6ec8ae094eea16efde4ea83\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\85e80a23b6ec8ae094eea16efde4ea83\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\a9890cc21245ea8ff439689e1ce60029\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\a9890cc21245ea8ff439689e1ce60029\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\smeyr\.gradle\caches\transforms-3\dc3eb22cc0a74e1a644fe1fc19355042\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\smeyr\.gradle\caches\transforms-3\dc3eb22cc0a74e1a644fe1fc19355042\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\eccc2a1aec0960f02f80b15dd6f9bb0d\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\eccc2a1aec0960f02f80b15dd6f9bb0d\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\7a78b5d36f72176ec37d7760b9340363\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\7a78b5d36f72176ec37d7760b9340363\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.42] C:\Users\smeyr\.gradle\caches\transforms-3\8b73b8c125d39ee8bf376b902720238f\transformed\dagger-lint-aar-2.42\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.42] C:\Users\smeyr\.gradle\caches\transforms-3\8b73b8c125d39ee8bf376b902720238f\transformed\dagger-lint-aar-2.42\AndroidManifest.xml:18:3-42
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\1b87150856e0a6c5862d22a758de4f2b\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\1b87150856e0a6c5862d22a758de4f2b\transformed\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\smeyr\AndroidStudioProjects\FoodOrderingApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:22:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\e4c120ce9430cde9209575e8b025f741\transformed\firebase-auth-ktx-21.0.6\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth-ktx:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\e4c120ce9430cde9209575e8b025f741\transformed\firebase-auth-ktx-21.0.6\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\652b6f60ab5a61424b1b6339bb87d5a8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\652b6f60ab5a61424b1b6339bb87d5a8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:28:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:27:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\smeyr\.gradle\caches\transforms-3\faa64c6a25fb7c6a35caf0bc62b137eb\transformed\firebase-database-20.3.0\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\e4c120ce9430cde9209575e8b025f741\transformed\firebase-auth-ktx-21.0.6\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\e4c120ce9430cde9209575e8b025f741\transformed\firebase-auth-ktx-21.0.6\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\e4c120ce9430cde9209575e8b025f741\transformed\firebase-auth-ktx-21.0.6\AndroidManifest.xml:12:17-116
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\652b6f60ab5a61424b1b6339bb87d5a8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\652b6f60ab5a61424b1b6339bb87d5a8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\652b6f60ab5a61424b1b6339bb87d5a8\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.6] C:\Users\smeyr\.gradle\caches\transforms-3\4be086ca60e0b41e23c5d2521f97c3f5\transformed\firebase-auth-21.0.6\AndroidManifest.xml:68:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\smeyr\.gradle\caches\transforms-3\4160a3520a0e72e0ec1f2c8cdef67232\transformed\firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\6d89dd51804a24399053a4852cf66210\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\6d89dd51804a24399053a4852cf66210\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\6d89dd51804a24399053a4852cf66210\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\6d89dd51804a24399053a4852cf66210\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\6d89dd51804a24399053a4852cf66210\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\6d89dd51804a24399053a4852cf66210\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\7d10cb923a29235bd6e8f2e7a132977e\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\7d10cb923a29235bd6e8f2e7a132977e\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\7d10cb923a29235bd6e8f2e7a132977e\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\7d10cb923a29235bd6e8f2e7a132977e\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\5f8eadc512ac90c7fa308416670af15f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\5f8eadc512ac90c7fa308416670af15f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\smeyr\.gradle\caches\transforms-3\5f8eadc512ac90c7fa308416670af15f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\smeyr\.gradle\caches\transforms-3\16e88dd1d5b4d31796a0950978dd08bf\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\smeyr\.gradle\caches\transforms-3\16e88dd1d5b4d31796a0950978dd08bf\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\smeyr\.gradle\caches\transforms-3\16e88dd1d5b4d31796a0950978dd08bf\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\smeyr\.gradle\caches\transforms-3\16e88dd1d5b4d31796a0950978dd08bf\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\9874704eab8254984d4cf98f3a0b97fb\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\smeyr\.gradle\caches\transforms-3\0f9a7874aac40b991042bed501cb7cf8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\smeyr\.gradle\caches\transforms-3\0f9a7874aac40b991042bed501cb7cf8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\001c19ad50e08c7393c0271078b72c33\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\001c19ad50e08c7393c0271078b72c33\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\9874704eab8254984d4cf98f3a0b97fb\transformed\emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\9874704eab8254984d4cf98f3a0b97fb\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\9874704eab8254984d4cf98f3a0b97fb\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\9874704eab8254984d4cf98f3a0b97fb\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\9874704eab8254984d4cf98f3a0b97fb\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\9874704eab8254984d4cf98f3a0b97fb\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\smeyr\.gradle\caches\transforms-3\9874704eab8254984d4cf98f3a0b97fb\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\smeyr\.gradle\caches\transforms-3\0f9a7874aac40b991042bed501cb7cf8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\smeyr\.gradle\caches\transforms-3\0f9a7874aac40b991042bed501cb7cf8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\smeyr\.gradle\caches\transforms-3\0f9a7874aac40b991042bed501cb7cf8\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
